@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "865785075294",
+    "project_id": "wasillayfinal",
+    "storage_bucket": "wasillayfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865785075294:android:340487ef8ad28ec6ae46cf",
+        "android_client_info": {
+          "package_name": "galaxy.app.wasillay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865785075294-bqmrpdalssi2tsb8d795kvgu900pjp0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs-xZdxZIx4k83SjKasYQkGk0NNT4C_QU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865785075294-bqmrpdalssi2tsb8d795kvgu900pjp0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
